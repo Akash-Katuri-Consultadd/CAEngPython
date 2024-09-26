@@ -12,12 +12,13 @@
    - [ ] **Encapsulation and Polymorphism**: Practice encapsulation and using polymorphic methods.
    - [ ] **Magic Methods**: Explore special methods like `__init__`, `__str__`, `__repr__`, `__eq__`, etc.
 
-### 3. **Python Development Tools**
+### 3. **Python Development Tools and Advanced Topics**
    - [ ] **Virtual Environments**: Learn to create and manage virtual environments using `venv` or `virtualenv`.
    - [ ] **Package Management**: Get familiar with `pip` and `poetry` for installing and managing packages.
    - [ ] **Integrated Development Environment (IDE)**: Learn to use PyCharm and VSCode IDEs.
    - [ ] **Debugging**: Learn to use debugger in your IDE.
    - [ ] **Testing**: Write unit tests using `unittest` and `pytest`.
+   - [ ] **Advanced Topics**: Generators and Iterators, List Comprehensions, Lambda Functions, Decorators
 
 ### 4. **Web Development with Python**
    - [ ] **Flask/Django**: Learn a web framework like Flask (for lightweight projects) or Django (for full-featured applications).
