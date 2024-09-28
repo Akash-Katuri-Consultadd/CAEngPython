@@ -4,7 +4,7 @@
    - [ ] **Control Flow**: Master if-else statements, loops (`for`, `while`), and exception handling.
    - [ ] **Functions and Modules**: Learn how to define functions, use `*args` and `**kwargs`, and organize code into modules and packages.
    - [ ] **Data Structures**: Get comfortable with lists, tuples, dictionaries, sets, and their methods.
-   - [ ] **File Handling**: Learn how to read, write, and manipulate files (text, CSV, JSON).
+   - [ ] **File Handling**: Learn how to read, write, and manipulate files (text, CSV, JSON)..
 
 ### 2. **Object-Oriented Programming (OOP) in Python**
    - [ ] **Classes and Objects**: Understand class creation, attributes, and methods.
